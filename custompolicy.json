@@ -2,7 +2,7 @@
     "properties": {
         "displayName": "Deny unencrypted HTTPS storage accts",
         "description": "Deny unencrypted HTTPS storage accts",
-        "mode": "all",
+        "mode": "all", #Resource Tages also±±±±±#
          "parameters": {
             "effectType": {
                 "type": "string",
@@ -35,4 +35,5 @@
             }
         }
     }
+
 }
